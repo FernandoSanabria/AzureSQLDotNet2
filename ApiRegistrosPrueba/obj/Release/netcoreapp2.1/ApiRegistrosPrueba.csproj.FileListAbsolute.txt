@@ -1,0 +1,14 @@
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/bin/Release/netcoreapp2.1/ApiRegistrosPrueba.deps.json
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/bin/Release/netcoreapp2.1/ApiRegistrosPrueba.runtimeconfig.json
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/bin/Release/netcoreapp2.1/ApiRegistrosPrueba.runtimeconfig.dev.json
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/bin/Release/netcoreapp2.1/ApiRegistrosPrueba.dll
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/bin/Release/netcoreapp2.1/ApiRegistrosPrueba.pdb
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.csprojAssemblyReference.cache
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.csproj.CoreCompileInputs.cache
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.RazorAssemblyInfo.cache
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.RazorAssemblyInfo.cs
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.AssemblyInfoInputs.cache
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.AssemblyInfo.cs
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.RazorTargetAssemblyInfo.cache
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.dll
+/home/akasha/Desktop/AzureRepeatSQL/ApiRegistrosPrueba/obj/Release/netcoreapp2.1/ApiRegistrosPrueba.pdb
